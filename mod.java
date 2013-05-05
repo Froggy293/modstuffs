@@ -1,3 +1,8 @@
+/* 
+* Test Minectaft Mod
+* (c)2013 Froggy293
+*/
+
 package net.minecraft.src;
 
 import cpw.*;
